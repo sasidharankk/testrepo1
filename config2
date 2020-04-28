@@ -1,2 +1,5 @@
 Configdb : db1
 configcache : cache1
+dev env servers : server01, server02
+qa  env servers : servers03, server04
+prod env servers : server05, server06
