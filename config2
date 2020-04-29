@@ -1,5 +1,5 @@
-Configdb : db2
-configcache : cache2
+Configdb : db02
+configcache : cache02
 dev env servers : server01, server02
 qa  env servers : servers03, server04
 prod env servers : server05, server06
